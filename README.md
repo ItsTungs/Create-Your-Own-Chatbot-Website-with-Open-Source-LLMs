@@ -1,6 +1,6 @@
 # Create Your Own Chatbot Website with Open Source LLMs
 
-![Chatbot Illustration](https://i.postimg.cc/qvG8Brmx/il7.png)
+Sertifikat: https://courses.cognitiveclass.ai/certificates/ebeb3856c4dc4c7d8fb7bf7850952e19
 
 **Author:** Cognitive Class AI
 
